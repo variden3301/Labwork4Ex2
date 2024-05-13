@@ -2,4 +2,7 @@
 Merhaba Caner Hocam
 
 
-[![Ödev Açıklaması](https://www.wikidata.org/wiki/Q1029024#/media/File:Visual_Paradigm_screenshot.png)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[![Ödev Açıklaması][def2]][def]
+
+[def]: https://www.youtube.com/watch?v=xvFZjo5PgG0
+[def2]: Visual_Paradigm_screenshot.png
